@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnwarTwoActivitie</string>
+    <string name="button_main">SEND</string>
+    <string name="text_header">Message Received</string>
+    <string name ="editText_main">Enter Your Message Here</string>
+    <string name ="button_second">Reply</string>
+    <string name="editText_second">Enter You Reply</string>
+    <string name="text_header_reply">Pesan</string>
+    <string name="activity2_name">intent 2</string>
+
+</resources>
